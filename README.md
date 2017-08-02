@@ -33,3 +33,15 @@ We’ll talk about how to look for patterns in everyday occurrences to create st
 * “It sure seems like Trump spends a lot of time at his own properties” vs. [“Trump has spent 30% of his presidency at a Trump property.”](https://www.nytimes.com/interactive/2017/04/05/us/politics/tracking-trumps-visits-to-his-branded-properties.html?_r=0)
 * “The single-rider line at Disneyland looks like it has a short wait time” vs. [“The wait in the single rider line is 66 minutes shorter.”](http://www.latimes.com/projects/la-fi-disneyland-ride-wait-time/)
 * “I see the pizza emoji on Venmo a lot” vs. [“The pizza emoji was used 17,470 times in one week”](https://qz.com/359903/the-emoji-of-venmo/)
+
+#### Create a web for more stories
+* If Trump spent the last 7 weekends at Mar-a-Lago, how much does that cost Secret Service / taxpayers?
+* Why is the [pot industry](http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-updates-the-cannabis-industry-has-a-clear-1501179643-htmlstory.html) only donating to Gavin Newsom's [campaign for governor](http://www.latimes.com/projects/la-pol-ca-california-governor-2018-money/)?
+
+#### More opportunities for reader engagement
+
+Even a tiny bit of structure can lead to higher reader engagement/involvement
+* [How will California's new laws affect my job/my health/my commute?](http://www.latimes.com/projects/la-pol-ca-new-2017-laws/)
+* [The 351 People, Places and Things Donald Trump Has Insulted on Twitter: A Complete List](https://www.nytimes.com/interactive/2016/01/28/upshot/donald-trump-twitter-insults.html)
+
+
