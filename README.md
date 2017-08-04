@@ -63,13 +63,40 @@ Even a tiny bit of structure can lead to higher reader engagement/involvement
 
 ## Workshop themes
 * Lakes
+  
 * Events: citywide or statewide
 * Public transportation
 * Sports
 * Malls
+  - When a mall dies, and there’s an empty space in the neighborhood, what's the effect on the surrounding neighborhood? Does crime go up? 
+  - A ranking of the most walkable malls
+  - Collective distance of all the escalators in a mall
+  - Waste created by malls
 * Food/drink
 * Fortune 500 companies
-
-
+  - Have diversity policies promised by Fortune 500 companies been implemented in the way they were promised? How has it affected the makeup of these companies?
+  - How consistent are PR campaigns around carbon emmissions versus actual results and actions of companies? Do certain companies get a lot of media coverage but actually have relatively low change?
+* Food and Drink
+  - Areas where places do and don't deliver, compared to racial or socioeconomic data of that community
+  - How nasty is your ice?
+  - Metrics of restaurants that have opened in the last few months, and try to predict if they will last
+  - Restaurant names that change over time
+  - OSHA data, health and injury reports in restaurants
+  - Organic ingredients - are they local or not?
+ * Public Transportation
+  - Citations: figuring out the best time to not get cited if you don't pay for your ticket
+  - How many people take public transportation vs. how many people live in that city vs. population density
+  - Public transit deserts
+ * Events
+  - Marches and protests
+  - Pride parades, how corporate they have gotten over time
+  - Denied event permits - racial disparities, do certain people get denied more often? Is it higher in one place
+  - Police presence at events and police overtime - security costs across major American cities (Trump rallies, Black Lives Matter)
+ * Lakes 
+  - Deaths around lakes, other human related illnesses related to lakes
+  - Who owns state lakes? Looking at satellite or GIS data, or matching it up with property data - so who owns what?
+  - How dirty are the lakes?
+  - How much lakefront property in Minnesota is available to the public?
+  - Honor system for fishing permitting? How honest are Minnesota fisherman?
 
 
