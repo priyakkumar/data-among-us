@@ -87,12 +87,12 @@ Even a tiny bit of structure can lead to higher reader engagement/involvement
   - Citations: figuring out the best time to not get cited if you don't pay for your ticket
   - How many people take public transportation vs. how many people live in that city vs. population density
   - Public transit deserts
- * Events
+* Events
   - Marches and protests
   - Pride parades, how corporate they have gotten over time
   - Denied event permits - racial disparities, do certain people get denied more often? Is it higher in one place
   - Police presence at events and police overtime - security costs across major American cities (Trump rallies, Black Lives Matter)
- * Lakes 
+* Lakes 
   - Deaths around lakes, other human related illnesses related to lakes
   - Who owns state lakes? Looking at satellite or GIS data, or matching it up with property data - so who owns what?
   - How dirty are the lakes?
