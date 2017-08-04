@@ -62,17 +62,11 @@ Even a tiny bit of structure can lead to higher reader engagement/involvement
 * Once you have some data, make some basic starter graphics -- they can be ugly!
 
 ## Workshop themes
-* Lakes
-  
-* Events: citywide or statewide
-* Public transportation
-* Sports
 * Malls
   - When a mall dies, and there’s an empty space in the neighborhood, what's the effect on the surrounding neighborhood? Does crime go up? 
   - A ranking of the most walkable malls
   - Collective distance of all the escalators in a mall
   - Waste created by malls
-* Food/drink
 * Fortune 500 companies
   - Have diversity policies promised by Fortune 500 companies been implemented in the way they were promised? How has it affected the makeup of these companies?
   - How consistent are PR campaigns around carbon emmissions versus actual results and actions of companies? Do certain companies get a lot of media coverage but actually have relatively low change?
