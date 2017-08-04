@@ -16,9 +16,9 @@ We’ll talk about how to look for patterns in everyday occurrences to create st
 * Come away with one story idea to pitch
 
 ## What types of data stories are there? 
-* Aggregating and displaying content in a functional way for users to explore.
-* Using the data to comment on our communities, society or government in some way.
-* Both!
+* Aggregating and displaying content in a functional way for users to explore. Example: [Politico's White House logs](http://www.politico.com/interactives/databases/trump-white-house-visitor-logs-and-records/index.html)
+* Using the data to comment on our communities, society or government in some way. Example: [Marshall Project's Pay to Stay jails](https://www.themarshallproject.org/2017/03/09/afraid-of-jail-buy-an-upgrade#.f1INEPN8u)
+* Both! Example: [Washington Post's Trump Charity Donations](https://www.washingtonpost.com/graphics/politics/2016-election/trump-charity-donations/)
 
 ## What can data stories cover?
 #### Serious things
@@ -53,5 +53,23 @@ Even a tiny bit of structure can lead to higher reader engagement/involvement
 * [How will California's new laws affect my job/my health/my commute?](http://www.latimes.com/projects/la-pol-ca-new-2017-laws/)
 * [The 351 People, Places and Things Donald Trump Has Insulted on Twitter: A Complete List](https://www.nytimes.com/interactive/2016/01/28/upshot/donald-trump-twitter-insults.html)
 
-## Some quick tips before we begin...
+## Some quick tips for collecting your own data
+
+#### Start small
+* Keep your scope relatively narrow scope.
+* Track one metric at a time.
+* Use pen and paper if it helps keep your thoughts organized
+* Once you have some data, make some basic starter graphics -- they can be ugly!
+
+## Workshop themes
+* Lakes
+* Events: citywide or statewide
+* Public transportation
+* Sports
+* Malls
+* Food/drink
+* Fortune 500 companies
+
+
+
 
