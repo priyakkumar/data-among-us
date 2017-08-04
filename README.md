@@ -11,6 +11,15 @@ Sometimes it’s hard to see the data right before our eyes. In this session, we
 
 We’ll talk about how to look for patterns in everyday occurrences to create structured datasets out of text, images, public statements and more, which can enrich and inform our storytelling. We’ll also look at some surprising data sets that already exist and discuss how to incorporate them into our own coverage and use them find new story ideas. Together, we’ll brainstorm data-driven stories inspired by what we find during our stay in Minneapolis, around SRCCON, or even the just in the room we’re in. We’ll workshop some of those ideas and expand the discussion to incorporate them into possible stories in our own communities. We’ll also talk about how to get the rest of your newsroom to think in a data-driven mindset while reporting, and leave with some story ideas to take back with us.
 
+## Session goal:
+* Be able to collect your own data and pitch stories from it.
+* Come away with one story idea to pitch
+
+## What types of data stories are there? 
+* Aggregating and displaying content in a functional way for users to explore.
+* Using the data to comment on our communities, society or government in some way.
+* Both!
+
 ## What can data stories cover?
 #### Serious things
 * [FiveThirtyEight’s Congress Tracker](https://projects.fivethirtyeight.com/congress-trump-score/)
@@ -44,4 +53,5 @@ Even a tiny bit of structure can lead to higher reader engagement/involvement
 * [How will California's new laws affect my job/my health/my commute?](http://www.latimes.com/projects/la-pol-ca-new-2017-laws/)
 * [The 351 People, Places and Things Donald Trump Has Insulted on Twitter: A Complete List](https://www.nytimes.com/interactive/2016/01/28/upshot/donald-trump-twitter-insults.html)
 
+## Some quick tips before we begin...
 
