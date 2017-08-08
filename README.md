@@ -77,7 +77,7 @@ Even a tiny bit of structure can lead to higher reader engagement/involvement
   - Restaurant names that change over time
   - OSHA data, health and injury reports in restaurants
   - Organic ingredients - are they local or not?
- * Public Transportation
+* Public Transportation
   - Citations: figuring out the best time to not get cited if you don't pay for your ticket
   - How many people take public transportation vs. how many people live in that city vs. population density
   - Public transit deserts
